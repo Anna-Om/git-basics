@@ -1,0 +1,3 @@
+I m editing file in git Bash 
+It`s cool
+
